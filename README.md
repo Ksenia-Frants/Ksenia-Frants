@@ -2,9 +2,11 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1ABB81&lines=I'm+beginner+front-end+developer)](https://git.io/typing-svg)
 
-🍀 I am currently studying at Yandex Practicum
-🍀 Improving my layout skills, Java Script, React.js
-🍀 Like to create something new, improve and see the result of my work
+### 🍀 I am currently studying at Yandex Practicum
+
+### 🍀 Improving my layout skills, Java Script, React.js
+
+### 🍀 Like to create something new, improve and see the result of my work
 
 ## My skills:
 
@@ -20,3 +22,14 @@
 ## Activity:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ksenia-Frants&theme=vue)](https://git.io/streak-stats)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ksenia-Frants&theme=vue)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ksenia-Frants&theme=vue)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ksenia-Frants&theme=vue)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ksenia-Frants&theme=vue)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ksenia-Frants&theme=vue&utcOffset=8)
+
+## Contacts:
+
+### ✉️ Mail: frants.ksenka@gmail.com
+
+### ↗️ Telegram: [@denpersimmon](https://t.me/denpersimmon)
